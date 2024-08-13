@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791662100980",
+    "project_id": "jetpack-2631e",
+    "storage_bucket": "jetpack-2631e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791662100980:android:f7daa1d1bc4f7dfc08b9a1",
+        "android_client_info": {
+          "package_name": "dev.atick.compose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQVlUMoujMin3TxJA1eXSy8RdDSc7Akc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
